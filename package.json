@@ -1,0 +1,22 @@
+{
+  "name": "book-shelf-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.17.1",
+    "heroku": "^7.54.0",
+    "mongodb": "^3.6.8",
+    "mongoose": "^6.3.3",
+    "nodemon": "^2.0.7"
+  }
+}
